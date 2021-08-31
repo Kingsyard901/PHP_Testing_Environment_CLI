@@ -1,6 +1,6 @@
 <?php
 
-$names = array("Henrik", "Pauline", "William", "Agnes", "Freya");
+$names = array("Hinkas", "Paulina", "Wilman", "Agnisan", "Freppa");
 $arrayLength = count($names);
 
 //Får error i CLI: PHP Notice:  Undefined offset: 5 in /home/runner/PHPTestingEnvironmentCLI/main.php on line 7
